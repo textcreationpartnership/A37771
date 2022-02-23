@@ -1,0 +1,833 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the cause and manner of the imprisonment of the lords now close prisoners in the Tower of London.</title>
+            <author>J. E.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37771</idno>
+            <idno type="STC">Wing E15</idno>
+            <idno type="STC">ESTC R874</idno>
+            <idno type="EEBO-CITATION">11780239</idno>
+            <idno type="OCLC">ocm 11780239</idno>
+            <idno type="VID">49015</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37771)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49015)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 491:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the cause and manner of the imprisonment of the lords now close prisoners in the Tower of London.</title>
+                  <author>J. E.</author>
+               </titleStmt>
+               <extent>26 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Amsterdam :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J. E.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49015:1"/>
+            <p>A NARRATIVE OF THE Cauſe and Manner OF THE Impriſonment OF THE
+LORDS: NOW Cloſe Priſoners in the Tower Of <hi>LONDON</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 37,</hi>
+               </bibl> 
+               <p>Fret not thy ſelf becauſe of him vvho proſpereth in his
+vvay, becauſe of the man vvho bringeth vvicked devices to paſs. For yet a
+little vvhile and the vvicked shall not be: yea, thou shalt diligently
+conſider his place, and it shall not be.</p>
+            </q>
+            <p>Amſterdam, 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49015:2"/>
+            <pb n="3" facs="tcp:49015:2"/>
+            <head>A NARRATIVE OF THE Cauſe and Manner of the Impri<g ref="char:EOLhyphen"/>ſonment of
+the LORDS, Now Cloſe Priſoners in the Tower of London, &amp;c</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN your laſt you commanded me to give you an enact ac<g ref="char:EOLhyphen"/>count of
+the opening and proceeding of the <hi>Parliament:</hi> You knovv you may freely
+command me to ſerve you in any thing I am able, but you likeviſe knovv that
+I am no <hi>Courtier</hi> nor Member of <hi>Parliament,</hi> and therefore I
+Wonder you should apply your ſelf to me on this occaſion, ſince you have
+ſo many Friends, as vvell at <hi>White-Hall,</hi> as in both
+<hi>Houſes,</hi> vvhich could give you a more particular Relation. But leſt
+you should think I ſay this to excuſe my ſelf from ſerving you, I
+shall, as vvell as I can, give you an account, both of vvhat I my ſelf have
+obſerved in this matter, and vvhat I have received from common Fame.</p>
+            <pb n="4" facs="tcp:49015:3"/>
+            <p>ON <hi>Thurſday,</hi> the 15th. of <hi>February,</hi> the
+<hi>Parliament</hi> (as they call themſelves) or the <hi>Convention,</hi> (as
+I hear others generally call them) Met: And at the ſame time a vaſt number
+of People, filled <hi>Weſtminſter Hall,</hi> the <hi>Court of
+Requeſts,</hi> the <hi>Painted Chamber,</hi> the <hi>Lobbies,</hi> and all
+places near the <hi>Parliament Houſe;</hi> that the like was never before
+ſeen upon the Meeting of This, or any Other <hi>Parliament</hi> in our
+Memory. I being one of the Number, was more than ordinarily curious to find out
+and obſerve the temper of that great Body of People, and what it was they did
+deſire or expect; and upon the ſtricteſt Enquiry I could make, I found
+that (except a few Perſons who were engaged there<g ref="char:EOLhyphen"/>to by their Intereſt or
+Dependance) they did earneſtly de<g ref="char:EOLhyphen"/>ſire and expect, they ſhould declare
+themſelves to be <hi>No Parliament.</hi>
+            </p>
+            <p>When the King was come, the Commons were ſent for up to the
+Lords Houſe. Where I made a ſhift to crowd in and hear. The King and my
+Lord Chancellour made each of them a Speech worthy your Conſideration; Copies
+whereof I have hear ſent you. As ſoon as the Speeches were made, and the
+Commons withdrawn, a Bill was offered to be Read: But the Duke of
+<hi>Buckingham</hi> de<g ref="char:EOLhyphen"/>ſired to be heard firſt; who after a moſt
+ingenious and mo<g ref="char:EOLhyphen"/>deſt Preface, told their Lordſhips, That in his Opinion,
+the Queſtion before their Lordſhips, was not what they were to do, but,
+Whether they could do any thing as a <hi>Parliament.</hi> It being very clear
+to him, that the <hi>Parliament</hi> was <hi>Diſſolved;</hi> For which
+Opinion he gave his Reaſons; which becauſe they are the Sum of all that was
+ſaid, to prove the <hi>Diſſoluti<g ref="char:EOLhyphen"/>on,</hi> I ſhall give you as good and
+as brief an account of them as I can. He ſpake to this purpoſe,
+<hi>Viz.</hi>
+            </p>
+            <p>
+               <q>That the laſt <hi>Prorogation</hi> being for 15 Months, was
+con<g ref="char:EOLhyphen"/>trary to two Printed Statutes, the 4th. and 36th. of <hi>Ed.</hi> 3 (which
+he proved to be in force at this time) that require <pb n="5" facs="tcp:49015:3"/>
+                  <hi>Annual Parliaments,</hi> and being ſo, was illegal; and that they
+could not meet by virtue of an illegal <hi>Prorogation,</hi> and there<g ref="char:EOLhyphen"/>fore
+were <hi>Diſſolved;</hi> For there being no legal Day for their Meeting,
+they could never Meet, unleſs it were by chance; and an accidental Meeting of
+the King, Lords, and 500 Commons could not make a <hi>Parliament,</hi> nor
+could the Kings Proclamation help the matter. For a Proclamation was not of
+more force than a Prorogation, and if a thing were illegal when firſt
+commanded, it could not be made legal by a ſecond Command. And he ſaid, No
+body could pretend, that the Kings Proclamation could make that a legal
+Parliament, which was not ſo before.</q> And having anſwered all Objections
+of the Kings power to diſpence with ſome Laws, and ſuch other as ſeemed
+to carry any colour of making the Prorogation legal, and having ſhew'd the
+great Inconveniencies that did ariſe from the long Sitting of Parliaments;
+how the very Nature of this Houſe of Com<g ref="char:EOLhyphen"/>mons was changed; for now they did
+not look upon them<g ref="char:EOLhyphen"/>ſelves as a Aſſembly that are to return to their own
+Homes, and become private men again (as by the Laws of the Land, and the
+antient Conſtitution of Parliaments they ought to be) but they look upon
+themſelves as a ſtanding Senate, and a number of men pickt out to be
+<hi>Legiſlators</hi> for the reſt of their whole Lives. He told their
+Lordſhips, 
+<q>The matter was now brought to this <hi>Dilemma;</hi> Either the
+Kings of <hi>England</hi> were bound by thoſe Statutes mentioned of
+<hi>Ed.</hi> 3. Or elſe the whole Government of <hi>England,</hi> by
+Parliaments and by Law, is abſolutely at an End. For if the kings of
+<hi>England</hi> have Power by an Order of theirs, to invalidate an <hi>Act
+made for the Maintainance of Magna Charta,</hi> they have alſo Power by
+another Order of theirs to invalidate <hi>Ma<g ref="char:EOLhyphen"/>gna Charta it ſelf.</hi> And if
+they have Power by an Order of theirs to invalidate an Act made for the
+maintainance of the Statute <hi>De tallagio non concedendo,</hi> they have
+Power alſo when they pleaſe, by an Order of theirs to invalidate the 
+<pb n="6" facs="tcp:49015:4"/>Statute it ſelf <hi>De Tallagio non concedendo,</hi> and
+then they may not only without the help of a <hi>Parliament</hi> raiſe what
+Money they pleaſe, but alſo take away any man's Eſtate when they
+pleaſe, deprive every one of his Liberty or Life as they pleaſe. This he
+told their Lordſhips, was a Power which no Judge nor Lawyer will pretend the
+kings of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> have, and yet this Power muſt be allowed them, or
+elſe they that were met there that day, could not act as a
+<hi>Parliament.</hi> For they were then met by virtue of the laſt
+Prorogation, and that prorogation is an Order of the king's point blank
+contrary to the two <hi>Acts</hi> of <hi>Edvv.</hi> 3. for the <hi>Acts</hi>
+ſay, <hi>That a Parliament shall be holden once vvithin a year;</hi> And the
+<hi>Prorogation</hi> ſayes, A <hi>Parliament</hi> ſhall not be held within
+a year, but ſome months after: And this I con<g ref="char:EOLhyphen"/>ceive is a plain contradiction,
+and conſequently the <hi>Proro<g ref="char:EOLhyphen"/>gation</hi> is void. He further added, That
+noting could be more dangerous to a king or a people, than that Laws ſhould
+be made by an Aſſembly, of which there can be a doubt, whether they have
+power to make Laws or no? And ſaid, It would be unexcuſable in them,
+becauſe there is for it ſo eaſie a Remedy; a Remedy which the Law
+re<g ref="char:EOLhyphen"/>quiers, and the Nation longs for. <hi>The Calling of a Nevv Parliament.</hi>
+And he ſhew'd the great Advantages that would acrue to the King, their
+Lordſhips, and the People, by frequent and ſucceſſive <hi>Nevv
+Parliaments.</hi> That without this, all they could do would be in vain: the
+Nation might languiſh a while, but muſt periſh at laſt, they ſhould
+become a burthen to themſelves, and a prey to their neigh<g ref="char:EOLhyphen"/>bours; and
+therefore mov'd, That their Lordſhips would humbly addreſs themſelves to
+the king to Call a <hi>Nevv Parliament;</hi> that ſo they might unanimouſly
+(before it be too late) uſe their utmoſt endeavours for his Majeſties
+ſer<g ref="char:EOLhyphen"/>vice, and for the honour, the ſafety, the welfare and the glo<g ref="char:EOLhyphen"/>ry of the
+<hi>English Nation.</hi>
+               </q>
+            </p>
+            <p>No ſooner had the Duke ended his Speech, but the <hi>Lord 
+<pb n="7" facs="tcp:49015:4"/>Fretchvil</hi> mov'd to have him call'd to the Bar, and
+the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e pro<g ref="char:EOLhyphen"/>ceeded againſt as
+ſhould be thought fit. The <hi>Lord Salisbury</hi> ſaid, <hi>That vvas to
+take avvay the Freedom of Parliament.</hi> And maintain'd the Duke in his
+aſſertion with great Reaſon. After him the <hi>Lord Alisbury</hi> argued
+againſt the <hi>Diſſolution,</hi> and againſt the Duke's being call'd
+to the Barr. The <hi>Lord Arundel</hi> of <hi>Trerice</hi> ſeconded the
+<hi>Lord Frechvil</hi>'s motion. The <hi>Lord Halifax</hi> ſaid, The
+<hi>Parliament</hi> was not in his Opi<g ref="char:EOLhyphen"/>nion <hi>Diſſolved,</hi> but that it
+was ſo far from a Crime in the Duke to move it, that it deſerved
+Commendation, becauſe this was a proper place for the motion, and the
+Deter<g ref="char:EOLhyphen"/>mination of it would be of advantage, which way ſoever the Houſe
+ſhould determine it. The Lord <hi>Berkshire</hi> ſpoke againſt calling to
+the Barr, and made a jeſt of it. The Lord <hi>Shaftsbury</hi> ſaid, The
+calling the Duke to the Barr were to take away all liberty of ſpeech in
+Parliament; he very judici<g ref="char:EOLhyphen"/>ouſly opened the ſtate of the caſe with
+relation to the <hi>Diſſoluti<g ref="char:EOLhyphen"/>on:</hi> He ſhewed, That by the common law
+there ought to be <hi>Annual Parliaments;</hi> That divers Statutes had
+provided for <hi>Annual Parliaments;</hi> That we have right to our laws, and
+Theſe are the laws that preſerve our Rights; That theſe are the only laws
+by which the King is bound to call any Parlia<g ref="char:EOLhyphen"/>ment; That the King is bound by
+his Oath to keep the laws, and that it is a great crime in any to endeavour to
+make him break his Oath: That tis dangerous to remove <hi>Old Landmarks</hi>
+That many Inconveniences have ever been the conſeqences of <hi>long
+Parliaments:</hi> And after many Arguments and an<g ref="char:EOLhyphen"/>ſwering all Objections to
+the contrary, he concluded the <hi>Prorogation</hi> was <hi>illegal.</hi> The
+Marqueſs of <hi>Wincheſter</hi> ſaid, The Parliament was not
+<hi>Diſſolved,</hi> but thought the Duke, who moved the buſineſs,
+deſerved thanks. The Marqueſs of <hi>Dorcheſter</hi> carried on the
+debate of the <hi>Diſſolution,</hi> and argu<g ref="char:EOLhyphen"/>ed againſt it.</p>
+            <p>After this (which was about an hour) the debate of the
+Diſſolution was continued about four hours, the <hi>Lord <pb n="8" facs="tcp:49015:5"/>Chancellor</hi> undertaking to anſwer the Arguments which were or
+ſhould be urged for it. This the Lords underſtood to be an implied lience
+to ſhew the reaſons of their opinion, and accordingly a good number of
+Lords urged unanſwer<g ref="char:EOLhyphen"/>able Reaſons to prove the <hi>Prorogation
+illegal,</hi> and that they could not by law <hi>Sit,</hi> and <hi>Act,</hi> as
+a <hi>Parliament:</hi> And all this while there was no reflexion upon any of
+the Lords for their opinnion; for the Commons were ſtill ſitting, and upon
+de<g ref="char:EOLhyphen"/>bate of that matter; and the Court, Church, and Popiſh Lords could not
+tell what would be the Iſſue of the <hi>Queſtion</hi> a<g ref="char:EOLhyphen"/>mongſt them.
+But as ſoon as they had notice that the Com<g ref="char:EOLhyphen"/>mons were up, and had not
+ſuffered any <hi>Queſtion</hi> to be put upon it, but had run the
+<hi>Debate</hi> upon a <hi>Queſtion</hi> that had no ground either in law or
+Reaſon, which they had not deter<g ref="char:EOLhyphen"/>mined neither, but had adjorned to the next
+day; They from this took right meaſures to conclude, that the major part of
+the Commons were unwilling to part with their Seats, and thereupon took
+confidence to ſhew them, that they had the major part of the Lords too: and
+having ſo in both Houſes, they need not fear to do whatſover they had a
+mind to; and therefore without offering any colourable an<g ref="char:EOLhyphen"/>ſwer to the
+reaſons and arguments that had been urged, they put this queſtion,
+<hi>Whether this debate should be laid aſide?</hi> and it was carried in the
+Affirmative. As ſoon as this <hi>Queſtion</hi> was carried, the lord
+<hi>Treaſurer</hi> moved; that it might be con<g ref="char:EOLhyphen"/>ſidered what to do with
+thoſe lords that had aſſerted; <hi>That the Parliament vvas
+diſſolved:</hi> The Duke of <hi>Ormond</hi> moved, that the Duke of
+<hi>Buckes</hi> might be queſtioned; The lord <hi>Treaſurer</hi> moved,
+That the Earl of <hi>Salisbury,</hi> of <hi>Shaftsbury,</hi> and the lord
+<hi>Wharton</hi> might be queſtioned. The motion of theſe Lords (as I
+thinke I have been told) was ſeconded by the Duke of <hi>York,</hi> and
+ſome of the lords called upon them to withdraw, but they continved in their
+places as others of the lords declared they ought to do. The Debate continued
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hours, whether they ſhould be
+queſtioned, divers lords <pb n="9" facs="tcp:49015:5"/>urging, That it was againſt the
+Priviledge of Speech, to which every Peer had right, to queſtion them.</p>
+            <p>And the Lord <hi>Privy Seal,</hi> made along, and moſt
+ingeni<g ref="char:EOLhyphen"/>ous, and judicious Speech to that purpoſe. He ſaid, It was an
+Eſſential Priviledge of all Courts, that every one of the Members of any of
+them, ſhould have Liberty to propoſe and debate any matter, that concerned
+themſelves as a Court, or their own Juriſdiction; And this liberty is not
+on<g ref="char:EOLhyphen"/>ly grounded upon the Law of <hi>England,</hi> but <hi>Reaſon</hi> has ſo
+clearly declared it to all Men, that it is allowed for Law in <hi>All
+Countries,</hi> much more ought to be allowed for Law in <hi>England,</hi>
+where we boaſt our ſelves to be a <hi>Free People;</hi> and much more to
+every Member of the Houſe of Lords, which is a conſtitutive part of the
+Legiſlative Power. And indeed nothing is more plainly provided for in the Law
+of <hi>England</hi> than this: Ask the Judges, and they will tell you, They are
+not Queſtionable for their Opinion delivered in Court, tho over-rul'd by
+their Brethren as contrary to Law. And ſhall not a Member of the high Court
+of Parliament have as much Liberty as the Judges of every Inferiour Court in
+<hi>England</hi> claims? He ſaid, There were many <hi>Records</hi> and
+<hi>Acts</hi> of Parliament, which did declare it to be the right of the Peers
+<hi>To Propoſe and Debate any thing vvhich they thought to be for the Good of
+the King and Kingdom.</hi> And by the ſtanding known Rules of the Houſe, if
+any Motion be made that gives Of<g ref="char:EOLhyphen"/>fence, the Propoſer ought immediately to be
+queſtioned, or not at all; and no Man is to Anſwer for any thing that has
+been Debated, and a Queſtion put upon it; for by entering into the Debate,
+they allow it to be Diſputable, and give Li<g ref="char:EOLhyphen"/>cence to the Lords to ſpeak
+their Opinions of either ſide. And ſhould they Invade this Liberty, and
+break theſe Rules (as in Queſtioning theſe Lords they ſhould do) they
+ſhould not Act is a Parliament, but as an Arbitrary Aſſembly; and there
+could be no Safety for any Member of Parliament; For whatſoever was
+Propoſed by a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Major <pb n="10" facs="tcp:49015:6"/>Vote went againſt him, he and thoſe of his Opinion might be
+queſtioned, and then no New law could be made, nor Inconvenient one altered
+or abrogated; For no law can be made or altered, but it muſt be propoſed by
+ſome body, and none could dare to propoſe it, leſt the Houſe ſhould
+not be of his Opinion, and then he could not be ſecure. He ad<g ref="char:EOLhyphen"/>ded, That this
+was the Caſe of every Lord there; For, ſup<g ref="char:EOLhyphen"/>poſe the Major Vote had been,
+<hi>That the Parliament vvas Diſſolved,</hi> he believed they would not
+have been willing it ſhould have been accounted an offence in them that had
+maintained that it was not: For if ſo, they did thereby allow that a <hi>Nevv
+Parliament</hi> might queſtion them for their Opi<g ref="char:EOLhyphen"/>nions, tho they had now the
+Major Vote; and yet the rea<g ref="char:EOLhyphen"/>ſon will be the ſame if not gre<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er, than for the puniſhing theſe
+great Lords; For if we are in an Error, we have aſ<g ref="char:EOLhyphen"/>ſumed a Power Illegal,
+that was not in us of Right: But they have only Doubted, that they and we want
+that Authority which in our Opinion we have. But, ſaid he,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is not what their Opinion was,
+or what they ſaid is to be conſidered: but, Whether we do not Violate our
+own Priviledges in the higheſt meaſure in the World by Queſtioning
+theſe Lords? And whether if they ſhould be forced to with-draw by the Major
+part of the Houſe, we do not at the ſame time Vote our own Priviledge of
+Speech out of doors? And whether if we looſe this Priviledge of Speech, we
+ſhall not thereby become Uſeleſs and Inſignificant? And whether by
+Judg<g ref="char:EOLhyphen"/>ing thoſe <hi>four Lords,</hi> and only <hi>four,</hi> when divers
+others were in the ſame Condition with them, as having maintained the ſame
+thing, we ſhall not ſhew our ſelves Partial and Unjuſt? And whether
+this kind of Proceeding will not reflect much upon the Honour of the Houſe,
+and ſubject us to Cen<g ref="char:EOLhyphen"/>ſure both at home and abroad, where ever the ſtory
+of it ſhall be related? Theſe things, ſaid he, are worthy your
+Conſide<g ref="char:EOLhyphen"/>ration before you Queſtion theſe <hi>Lords.</hi> But this and
+much more which was ſaid by his Lordſhip, and a great many 
+<pb n="11" facs="tcp:49015:6"/>other of the Proteſtant Temporal Lords, could not prevail
+with the Court-Lords, Biſhops, and Papiſts. For theſe laſt ſeeing
+their great Head ſo ſet upon it, were reſolved to fol<g ref="char:EOLhyphen"/>low him, though
+contrary to their ſences, (This is not ſtrang in them whoſe Religion
+teaches them to believe and act a<g ref="char:EOLhyphen"/>gainſt ſence:) their Promiſes, and
+their Declarations before they came into the Houſe. The two former knew who
+had the diſpoſal of Preferments, and Rewards, and therefore minded not what
+was ſaid, but who ſpake; and had learnt the Wiſdom my lord Chancellor
+mentioned in his Speech, <hi>Viz. To enjoy vvhat they could at preſent,
+vvithout regard to to the future.</hi> And yet they durſt not Venture to
+execute their deſign upon thoſe Lords that night, becauſe they knew not
+with what Spirit the Commons might be moved next morning upon the Debate,
+Whether it was a <hi>Prorogation</hi> or an <hi>Adjournment,</hi> which they
+had appointed then to be conſidered. And therefore they move to Adjourn the
+Debate of Queſtioning thoſe Lords till the next morning. This was oppoſed
+by the <hi>Four Lords,</hi> and many other Noble Peers, but they were all
+anſwered by the Vote.</p>
+            <p>This Sir, was all the Tranſaction of that day, ſaving that the
+Lord <hi>Shaftsbury</hi> willing it ſhould appear upon their Books, what
+their Accuſation was, and that they might know what to Anſwer to the next
+morning, Deſired their Charge might be written, which was done accordingly in
+theſe Words. <hi>VIZ.</hi> 
+               <q>For Propoſing to the Houſe, and Aſſerting, and
+Maintaining, that this Parliament is Diſſolved.</q>
+            </p>
+            <pb n="12" facs="tcp:49015:7"/>
+            <p>The next morning being <hi>Friday</hi> the 16, about too a Clock
+the Debate was again Reſumed, and was raiſed high, and continued about
+three hours, in which time 'twas urged in the behalf of the four Lords, that
+three ſeveral times, <hi>Viz.</hi> 1. <hi>Hen.</hi> 7. 1 <hi>Q. Mary</hi> 1
+<hi>Q. Eliz.</hi> the very ſame debate was in Parliament; It was then doubted
+whether the Writs were good (in form) by which they were ſummoned, and yet no
+man queſtioned for moving and debating it. The Reli<g ref="char:EOLhyphen"/>gion eſtabliſht had
+been ſeveral times altered by Parliament, yet none ever queſtioned for
+propoſing and debating it; And the
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arliament being Re-aſſumed
+before the day to which 'twas prorogued, in the year 1666, It was moved to
+conſider whether they could Act as a Parliament and the propoſer never
+queſtioned. And nothing could be more proper then ſuch debats, for ſhould
+there be a doubt whether they had Authority to Act as a Parliament, and yet
+Acts be made (and the Queſtion undetermind) thoſe that doubted, might
+diſpute thoſe Acts and overthrow them, if it ſhould happen that the
+Judges, ſhould be of opinion, that they had not a Legal Authority. And
+therefore 'twas a great hard<g ref="char:EOLhyphen"/>ſhip, that the Judges were not ſuffered to
+give their opinion in the poynt, when the Duke of <hi>Bucks,</hi> required it:
+It was likewiſe ſaid, That thoſe that had ſate and made Acts as a
+Parliament had after ward been declared no Parliament (in futrue parliaments)
+and their Acts nulled, as 39. <hi>Hen.</hi> 6.</p>
+            <p>And then it was not thought a crime to propoſe the
+con<g ref="char:EOLhyphen"/>ſideration of their Authority, tho the King had ſummoned and jontly
+acted with them as a Parliament, yet that was a greater queſtioning of the
+Kings Prerogative then this: For as yet the King had not joyned with them to
+Act as a Parli<g ref="char:EOLhyphen"/>ament.</p>
+            <p>Now the debate had ended much ſooner then it did (as moſt men
+think) by a Vote againſt the Lords (the only way of Anſwering their
+unanſwerable Arguments) but for two Reaſons, one was the ſame that had
+occaſioned it to be <pb n="13" facs="tcp:49015:7"/>adjorned, the night before; They were
+willing to ſee what was done by the Commons, And here by the way of
+digre<g ref="char:EOLhyphen"/>ſſion, let me acquaint you, how the matter was managed a<g ref="char:EOLhyphen"/>mongſt
+them: The firſt day it was moved in the Houſe of Commons, that they could
+not Act by vertue of the laſt pro<g ref="char:EOLhyphen"/>rogation, and of that opinion were many of
+the beſt and wiſeſt amongſt them: But the <hi>Speaker, Indigents
+Courtiers,</hi> and ſome <hi>Contry Gentle-men</hi> (as thay have higher to
+pretend<g ref="char:EOLhyphen"/>ed to be) were Impatient at it, and uſed all their Art to a<g ref="char:EOLhyphen"/>void the
+debate, as fore-ſeeing ſhould a fayrer debate be ad<g ref="char:EOLhyphen"/>mitted, they could not
+anſwer the Arguments might be urg<g ref="char:EOLhyphen"/>ed, therefore, as I told you, they run it
+off upon a ſtrang ſenſe<g ref="char:EOLhyphen"/>leſs Queſtion, <hi>Whether it vvere a
+Prorogation or an Adjorn<g ref="char:EOLhyphen"/>ment</hi> (the Houſe generally agreeing, that it
+could not be <hi>a Prorogation</hi> and legal) which queſtion they alſo
+adjorned till the next morning and from thence till the <hi>Monday</hi>
+follow<g ref="char:EOLhyphen"/>ing; And when it came then to be debated, the ſame party that had put
+off the debate (by that trick) before, ſpoiled even that debate too, by
+moving to have Liberty of ſpeech to debate it. And after this had been long
+diſputed, and 168 that were for a Vote to paſs, that they ſhould have
+Liberty of Speech, and were alſo of opinion, That the laſt proroga<g ref="char:EOLhyphen"/>tion was
+illegall, could not get the <hi>Speaker</hi> to put the Queſtion, but the
+major part of the Houſe joyned with him, And put another Queſtion by which
+they concluded them<g ref="char:EOLhyphen"/>ſelves to be a Houſe and to ſit by virtue of the
+Prorogation. The Queſtion was, <hi>Whether they should appoint Nevv
+Com<g ref="char:EOLhyphen"/>mittes?</hi> which was carried in the Affirmative.</p>
+            <p>But to return to the Lords, I am next to tell you the other
+Reaſon that they ſuffered the Debate of queſtioning thoſe Four Lords to
+continue ſo long, ſince it ſeems as if they were reſolved not to be
+convinced by any Reaſon could be urged for their Defence. And the World
+judges this to be the Reaſon, <hi>viz.</hi> That they thought four ſuch
+Lords as had ſo great Reputation for Wiſdom, Intereſt and Courage, 
+<pb n="14" facs="tcp:49015:8"/>ſuffering on this account, would give too great a Credit
+to the thing they had propoſed, &amp; their induring Impriſonment rather
+than Recant their Opinions, would make the World examine it too narrowly; and
+ſo the Queſtion, which they endeavoured to ſmother, would grow more
+publick, and the People would be made ſenſible, that what thoſe
+<hi>Lords</hi> urged was only to aſſert the Rights and Liberties of the
+People of <hi>England</hi> in having frequent <hi>Nevv Parliaments,</hi> and
+<hi>Freedom of Speech</hi> in <hi>Parliament.</hi> And therefore though they
+had ſingled thoſe Four out of all the reſt of the <hi>Lords</hi> that had
+maintained the ſame thing: Yet ſome of the <hi>Court Lords</hi> not out of
+love to any of the Four, but to avoid this Rock, and to prevent having ſo
+ſtrong a Teſtimony of their Illegal Proceedings, as the Intereſt and
+Reputation of thoſe Four <hi>Lords</hi> would give, did labour, if
+poſſible, to ſingle out the Duke of <hi>Bucks,</hi> and the <hi>Lord
+Shaftsbury</hi> from the other two, nay ſome ſeem'd to deſire the Duke of
+<hi>Bucks</hi> alone might be Queſtioned, as being the firſt mover in this
+matter, which he perceiving withdrew and went away, and immediately after the
+Vote paſſed for all their with wrawing; and though the <hi>Duke's</hi>
+going gave ſome diſappointment to their Deſign, yet ſtill they
+purſu'd it, by endeavouring, if it were poſſible, to ſeparate my
+<hi>Lord Shaftsbury</hi> from the other two: But in this alſo they were
+diſappointed, for my <hi>Lord</hi> of <hi>Sailsbury</hi> being call'd in
+firſt, ſoon ſhew'd them by his prudent and g<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llant <hi>Reſolution,</hi> that all endeavours of
+theirs to divide him from ſo good a Cauſe, and truly Noble Company, were
+but in vain. And the <hi>Lord Wharton</hi> tho in ſo great an Age, and under
+Circumſtances as might ſome what have excus'd him, yet bore it with ſo
+much Honour and Reſolution, as wholly fruſtrated their deſign of that
+kind, for though my <hi>Lord Salisbury</hi> was not called to the
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, but to his place in the
+Houſe, and there told by my <hi>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rd Chancellor,</hi> That the Houſe did obſerve, that he did
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, <hi>that the Prorogati<g ref="char:EOLhyphen"/>on is
+Illegal,</hi> at which the Houſe had
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great Offence, 
+<pb n="15" facs="tcp:49015:8"/>and lookt upon it, not only as an offence to the Houſe,
+but alſo to the King, and therefore required him to ask pardon of the King
+and the Houſe. This his Lordſhip refuſing to do, (after he was again
+withdrawn) the Houſe judged this to be a Contempt, and that he ſhould kneel
+at the Bar as a Delinquent, and be committed to the Tower during the pleaſure
+of the King and the Houſe.</p>
+            <p>Next my Lord of <hi>Shaftsbury</hi> was called, not to his Place,
+but to the Bar; and not only required to ask pardon, but to make his
+acknowledgment in theſe very words, <hi>Viz. I do ac<g ref="char:EOLhyphen"/>knovvledge my
+endeavouring to maintain this Parliament is Diſ<g ref="char:EOLhyphen"/>ſolved, vvas an ill
+adviſed Action, for vvhich I humbly beg Pardon of the King, and this moſt
+honourable Houſe.</hi> Which his Lordſhip refuſing to do, the Houſe
+judged it a Con<g ref="char:EOLhyphen"/>tempt, and that he ſhould kneel at the Bar as a Delinquent,
+and be committed to the Tower during the pleaſure of the King and the
+Houſe. The Earl of <hi>Shaftsbury</hi> and Earl of <hi>Salisbury</hi> both
+deſiring they might have their own Cooks.</p>
+            <p>The <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> was called,
+not to the Bar, but to his Place in the
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and the ſame words ſaid by
+the Lord <hi>Chancellor</hi> to him, as before to my Lord of
+<hi>Salisbury,</hi> but he alſo refuſing to make his acknowledgment was
+likewiſe call<g ref="char:EOLhyphen"/>ed to the Bar, and committed to the Tower.</p>
+            <p>By which different manner of proceedings, It is manifeſt, that
+they would gladly have leſſened the Teſtimony of thoſe Lord had they
+not been perſons that knew not how to con<g ref="char:EOLhyphen"/>ſult their particular
+conveniencies before their own Honour and the Publick Intereſt.</p>
+            <p>Next morning, the Houſe ſitting, the Duke of
+<hi>Bucking<g ref="char:EOLhyphen"/>ham</hi> came in and took his Place, but was immediately call'd
+upon to withdraw, He earneſtly preſſed to be firſt heard, but that not
+being ſuffered, he withdrew, and was immedi<g ref="char:EOLhyphen"/>ately ordered to be brought to
+the Bar by the Gentleman-Uſher of the <hi>Black-Rod,</hi> which accordingly
+was done, where he ſpake to this purpoſe:</p>
+            <pb n="16" facs="tcp:49015:9"/>
+            <p>
+               <hi>My Lords, Yeſterday vvhen I vvent avvay I vvas ill, and
+beſides, I thought I had ſufficiently tyred your Lordships vvith my
+Diſcourſe; but ſince I hear you have committed the Earl of</hi>
+Salisbury, <hi>Earl of</hi> Shaftsbury, <hi>and my Lord</hi> Wharton <hi>to
+the</hi> Tower, <hi>I am come hither to pray your Lordships to Diſcharge
+them, or if not, to Send me to bear them Company, for I conceive they have done
+nothing, but vvhat I have done as much, they only Arguing for vvhat I firſt
+moved.</hi> After which the Lord <hi>Chancellor</hi> ſpake to the Duke of
+<hi>Bucks</hi> as follows: My Lord, I am to tell you in what Condition your
+Affairs ſtand here, My Lords find you highly guilty in Aſſerting,
+<hi>That this Parliament is Diſſolved,</hi> and very active in maintaining
+it, and therefore have Ordered, that you make this acknow<g ref="char:EOLhyphen"/>ledgment at the Bar,
+which I ſhall read to you, <hi>viz. I do acknovvledge that my endeavouring to
+maintain,</hi> That this Parliament is Diſſolved, <hi>vvas an ill adviſed
+Action, for vvhich I humbly beg the Pardon of the Kings Majeſty, and of this
+moſt honourable Houſe.</hi> To which the Duke replyed; <hi>That if he had
+been unmannerly in his Behaviour, or if he had let fall any foolish or undecent
+expreſſion, he vvas ready to ask Pardon; But there vvere tvvo things for
+vvhich he never could ask Par<g ref="char:EOLhyphen"/>don; The firſt vvas for</hi> Thinking <hi>(for
+that no man can help.) The next vvas for declaring to their Lordships vvhat he
+did</hi> Think <hi>to be for his Majeſty's Service, their Lordships Henour,
+and the Good and Safety of the People of</hi> England: <hi>For if I should not
+do this, I vvere not an honeſt Man, nor vvorthy to ſit in this Houſe as a
+Peer of the Realm.</hi> Upon which his re<g ref="char:EOLhyphen"/>fuſal, the Lord <hi>Chancellor</hi>
+pronounced this Sentence upon him: That for his Contempt to his Majeſty and
+this Houſe, he ſhall ſtand committed to the <hi>Tovver</hi> of
+<hi>London,</hi> during the pleaſure of the King, and this Houſe: Then the
+Duke of <hi>Bucks</hi> deſired, That he might have his own Cook and Butler,
+and ſo withdrew.</p>
+            <pb n="17" facs="tcp:49015:10"/>
+            <p>And immediately upon the Motion of the Lord <hi>Treaſu<g ref="char:EOLhyphen"/>rer,</hi>
+and the Duke of <hi>York,</hi> this further Order was made.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Whereas George Duke of Bucks, James Earl of Salisbury, Anthony
+Earl of Shaftsbury, and Philip Lord Wharton, ſtand committed Priſo<g ref="char:EOLhyphen"/>ners to
+the Tower of London by Order of this Houſe; It is this Day further Ordered
+by, &amp;c. That the ſaid Lords remaining Priſoners, be kept ſeverally
+apart, and that they be not ſuffered to meet together unleſs it be at
+Church; and that no Perſons be ſuffered to Viſit them, without the leave
+of this Houſe, ex<g ref="char:EOLhyphen"/>cept their neceſſary Servants and Attendants: For which
+this shall be a ſufficient Warrant.</p>
+                  <p>
+                     <hi>To the Conſtable of the Tovver of</hi> London,
+<hi>&amp;c.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="18" facs="tcp:49015:11"/>Thus, <hi>Sir,</hi> I have given you
+(according to my beſt In<g ref="char:EOLhyphen"/>formation) an exact account of the Opening of this
+Seſſi<g ref="char:EOLhyphen"/>ons, and particularly of the Proceedings againſt thoſe truly
+Noble LORDS, who durſt ſpeak what they knew to be Right, and for their
+Countrys Good, though it was ne<g ref="char:EOLhyphen"/>ver ſo unpleaſing to a <hi>Faction</hi>
+they knew to be but too too prevalent; nor would they deſert their Country,
+and Re<g ref="char:EOLhyphen"/>cant what they had ſo bravely Aſſerted and Maintained, though they
+could not but foreſee, That the <hi>Alies</hi> of the <hi>Nevy Tripple
+League,</hi> (Viz.) <hi>Bishops, Court</hi> and <hi>Popish Lords,</hi> who had
+already broke thorow the <hi>Antient Rules and Practice of Parliament,</hi> and
+all the <hi>Lavvs of England,</hi> would (according to the New Court Word) go
+<hi>Thorovv-Stitch,</hi> and ſtick at nothing to remove them out of the way,
+who had ſo bravely ſhewed them the <hi>Illegality</hi> of all their
+<hi>Pro<g ref="char:EOLhyphen"/>ceedings,</hi> and the unavoidable Miſchiefs, if not utter Ruine they
+would bring upon themſelves, and the whole King<g ref="char:EOLhyphen"/>dom, if they did continue to
+Act as a <hi>Parliament,</hi> when they were ſo plainly Diſſolved by
+Law.</p>
+            <p>The ſtrangeneſs of theſe Proceedings is become the pub<g ref="char:EOLhyphen"/>lick
+Diſcourſe of the Town; and it is Obſervable, That the very Courtiers
+themſelves confeſs, <hi>That this Treatment of the</hi> LORDS <hi>is
+Prodigiouſly ſtrange and Unpreſidented,</hi> and that it hath too much
+made good what was ſo often told to the Members of both Houſes, before
+their laſt Meeting, both in Diſcourſes and Printed Papers, 
+<q>That if they vvould Preſume to Sit upon ſuch an Iellgal
+Foundation, they should be forced to do all manner of arbitrary things to
+ſupport themſelves.</q>
+            </p>
+            <p>Others ſay, that this their very firſt Act is ſuch that
+(ſup<g ref="char:EOLhyphen"/>poſing they had been a Parliament) they had by it deſtroy<g ref="char:EOLhyphen"/>ed their
+own very Being; for by taking away Freedom of <pb n="19" facs="tcp:49015:11"/>Debates, they
+not only take away the Right of the Houſe of Peers, but the Priviledge of the
+Commons alſo, and utter<g ref="char:EOLhyphen"/>ly deſtroy the very Eſſentials of Parliament;
+nay, by con<g ref="char:EOLhyphen"/>ſequence the Rights and Liberties of all other Courts, Coun<g ref="char:EOLhyphen"/>cils
+and Societies whatever. For nothing can be tranſacted in any publick
+Aſſembly, but it muſt firſt be Propoſed and Debated, and who will
+ever propoſe or debate any thing though of never ſo great Uſe and Benefit
+to the Publick, if this Liberty be denyed?</p>
+            <p>For, if the <hi>Major</hi> part may Impriſon the <hi>Minor,</hi>
+only for propoſing and debating, then it will follow, that if an
+Aſ<g ref="char:EOLhyphen"/>ſembly or Court conſiſt of a <hi>Hundred</hi> Perſons, <hi>Fifty
+one</hi> may Impriſon <hi>Fourty nine</hi> for maintaining an Opinion
+con<g ref="char:EOLhyphen"/>trary to theirs; And of thoſe <hi>Fifity one, Tvventy ſix</hi> may
+Impriſon <hi>Tvventy five</hi> by the ſame reaſon; And ſo the
+<hi>Major</hi> number may Impriſon the <hi>Minor,</hi> till they come to
+<hi>Tvvo;</hi> and of thoſe <hi>tvvo,</hi> let but the Stronger Impriſon
+the Weaker, and then according to this Rule, neither Law, Right or Reaſon is
+to be heeded, but only Number; and all Government muſt unavoidably
+diſſolve it ſelf into abſo<g ref="char:EOLhyphen"/>lute <hi>Force</hi> and
+<hi>Tyranny.</hi>
+            </p>
+            <q>
+               <hi>From vvhich</hi> Wretched State, <hi>I pray GOD for ever Keep
+this KINGDOM</hi>
+            </q>
+            <p>And it's generally ſaid, that the manner of the Impriſon<g ref="char:EOLhyphen"/>ment
+of theſe four <hi>Lords</hi> is as Notorious as the Impriſon<g ref="char:EOLhyphen"/>ment it
+ſelf; for they are denyed the Liberty of having their Friends to Viſit
+them; a thing which the Law of <hi>England</hi> allows as a Right to
+<hi>Fellons, Murtherers,</hi> nay to Perſons Convicted of <hi>High
+Treaſon.</hi> For the Law of <hi>England</hi> knows no ſuch thing as
+<hi>Cloſe Impriſonment</hi> in any Caſe what ever, but that of
+<hi>Spies</hi> taken in <hi>War,</hi> or <hi>Traytors</hi> taken be<g ref="char:EOLhyphen"/>fore the
+reſt can be apprehended: And even in thoſe Caſes the <hi>Cloſe
+Impriſonment</hi> ought to continue but for a few <pb n="20" facs="tcp:49015:12"/>Dayes:
+But here Lord are thus committed for inſiſting up<g ref="char:EOLhyphen"/>on Law, Reaſon, and the
+Rights of the Nation, and that in the preſence of the King and all the Peers
+of <hi>England.</hi>
+            </p>
+            <p>Men further ſay, That their being Committed during the
+pleaſure of the King and the Houſe, is all one as being com<g ref="char:EOLhyphen"/>mitted during
+Life; For if the King and Houſe will not Re<g ref="char:EOLhyphen"/>leaſe them, they cannot be
+Releaſed. But ſuch Commit<g ref="char:EOLhyphen"/>ments directly tend to the utter Subverſion of
+the Laws and Liberties of <hi>English-men;</hi> For the Law of <hi>England</hi>
+knows no ſuch thing as <hi>Impriſonment during the Kings Pleaſure</hi> or
+<hi>for Life;</hi> But only in a few particular Caſes, provided for by
+expreſs Statutes. But theſe Lords are not Committed for tranſgreſſing
+any Statutes, but for bravely ſtanding for, and claiming to themſelves and
+the whole Kingdom, the Bene<g ref="char:EOLhyphen"/>fit of divers Statutes. So that many here do
+believe, That the Commitment of theſe four Worthy Lords was deſign'd, not
+only as a Puniſhment to them, for ſo bravely oppoſing the preſent
+Current, but as the only fit Means to carry on the Deſignes of the <hi>Nevv
+Tripple-League;</hi> Such as,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <p>
+                           <hi>Vnder pretence of Securing the Proteſtant Religi<g ref="char:EOLhyphen"/>on,
+by Act of Parliament, To declare it Lawful for our Kings to be Papiſts;</hi>
+As is done in a Bill the Lords lately ſent down to the Commons: and I do not
+hear of any one Biſhop but did readily agree to it: And ſuch as, <hi>The
+Lords aſſuming to themſelves an Original Iurisdi<g ref="char:EOLhyphen"/>ction over the Commons
+of ENGLAND.</hi> As they lately did in the Caſe of Dr. <hi>Cary,</hi>
+againſt whom they acted as Ar<g ref="char:EOLhyphen"/>bitrarily, and laid as exceſſive a Fine as
+ever the <hi>High Com<g ref="char:EOLhyphen"/>miſsion Court</hi> and <hi>Star-Chamber</hi> did in
+ſuch a Caſe, as will ap<g ref="char:EOLhyphen"/>pear by the Order for his Commitment, a true Coppy
+where of taken out of the Lords Journal, I have here ſent you.</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>Die Jovis, primo Martij,</hi>
+1676.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>WHereas Dr. <hi>Nicholas Cary</hi> being on <hi>Tueſday</hi>
+brought to the Bar, and there required by this Houſe to Diſ<g ref="char:EOLhyphen"/>cover his
+knowledge concerning the Author of a Book or <pb n="21" facs="tcp:49015:13"/>Paper
+Entituled, <hi>The Grand Queſtion concerning the Proroga<g ref="char:EOLhyphen"/>tion of this
+Parliament for a Year and three Months, Stated and Diſcuſſed:</hi> And
+whoſe Servant that Perſon is who delivered the ſaid Book or Paper to him?
+He the ſaid <hi>Nicholas Cary</hi> refuſed to diſcover his knowledge
+thereof. Upon conſide<g ref="char:EOLhyphen"/>ration had thereof, the Lords Spiritual and Temporal in
+Parliament Aſſembled, do Order and Adjudge the ſaid <hi>Ni<g ref="char:EOLhyphen"/>cholas
+Cary,</hi> for his ſaid Contempt committed in the Face of this Court, be, and
+he is hereby Fined to the <hi>King's Majeſty,</hi> the Sum of <hi>One
+thouſand Pounds;</hi> and further, That he the ſaid <hi>N. Cary,</hi>
+ſhall be and remain a <hi>Cloſe Priſoner</hi> in the <hi>Tovver</hi> of
+<hi>London,</hi> not to be Delivered thence till he have paid his Fine.</p>
+            <p>In this Order and Judgment it may plainly be ſeen what they
+would be at; It is not the <hi>Liberty</hi> of thoſe four <hi>Lords</hi>
+only, but of all the People of <hi>England</hi> that is ſtruck at by ſome
+men, and they are kept in Priſon for the better carry<g ref="char:EOLhyphen"/>ing on of that
+Deſign. Our Laws are the Banks and Buttreſ<g ref="char:EOLhyphen"/>ſes of our <hi>Liberties,</hi>
+and our only Fence againſt <hi>Arbitrary Povver;</hi> And if they be taken
+away, no man is ſecure a mo<g ref="char:EOLhyphen"/>ment. <hi>Magna Charta,</hi> the <hi>Petition of
+Right,</hi> and divers other the known <hi>Lavvs</hi> and <hi>Statutes</hi> of
+this Realm, do expreſly ſay, <hi>That no man shall be taken, impriſoned
+or diſceized of his Free<g ref="char:EOLhyphen"/>hold, or any othervviſe deſtroyed, vvithout due
+proceſs of Lavv, and Judgement of his Peers.</hi> And by the Common Law of
+<hi>England, No man is obliged to anſvver Queſtions againſt
+him<g ref="char:EOLhyphen"/>ſelf.</hi> But if notwithſtanding, this preſent Convention of Lords
+may lawfully ſend for any man, and if he will not anſwer
+<hi>Queſtions</hi> againſt himſelf, may judge it a Contempt, and with<g ref="char:EOLhyphen"/>out
+any legal Proceſs or Judgment of his Peers may Fine him more than he is
+worth, and Impriſon him till he has paid that Fine, <hi>Magna Charta,</hi>
+the <hi>Petition of Right,</hi> and all the <hi>Lavvs</hi> made to ſecure our
+<hi>Liberites</hi> and <hi>Properties</hi> are be<g ref="char:EOLhyphen"/>come Uſeleſs and
+Inſignificant things: And every Man in <hi>England</hi> enjoys his
+<hi>Liberty</hi> and <hi>Eſtate,</hi> not of Right or by Law, but at the Will
+and Pleaſure of theſe <hi>Lords.</hi>
+            </p>
+            <pb n="22" facs="tcp:49015:14"/>
+            <p>Hence it is men ſtick not openly to ſay, <hi>It is not the
+Duke of</hi> Buckingham, <hi>the Earl of</hi> Salisbury, <hi>the Earl of</hi>
+Shaftsbury, <hi>the Lord</hi> Wharton, <hi>and Doctor Cary only; but all
+the</hi> Laws, Rights <hi>and</hi> Liberties <hi>of</hi> England <hi>are
+Impriſoned vvith them, And there is not any one</hi> Lord, Gentleman,
+Citizen, <hi>or Per<g ref="char:EOLhyphen"/>ſon vvhatſoever in</hi> England, <hi>But, by the ſame
+Rule, may be Impriſoned the next hour.</hi> So that their Caſe extends it
+ſelf to the whole People of <hi>England,</hi> and what they ſuffer they
+ſuffer as their <hi>Martyrs.</hi>
+            </p>
+            <p>I Pray God deliver the King and Kingdom from the <hi>Ca<g ref="char:EOLhyphen"/>lamitous
+Conſequences</hi> that theſe things ſeem to Uſher in, and bring
+deſerved ſhame upon ſuch Actions and Principles as for the Advantage of
+perticular Perſons, or little Factions tend to the Ruine of the
+<hi>People</hi> and <hi>Government.</hi>
+            </p>
+            <closer>So Prayes, 
+<salute>Sir,</salute>
+               <signed>Your Affectionate and humble Servant. <hi>J. E.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publisher_to_the_reader">
+            <pb n="23" facs="tcp:49015:14"/>
+            <head>The Publisher to the Reader.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WHilſt the <hi>Alies</hi> of our New <hi>Tripple League</hi> are
+thus ſecuring the <hi>Proteſtant Religion,</hi> and the <hi>Rights</hi> and
+<hi>Liberties</hi> of the Nation, the <hi>French King,</hi> (that great Enemy
+of the <hi>Proteſtant Religion, Liberty</hi> and <hi>Property,</hi> the
+Diſturb<g ref="char:EOLhyphen"/>er of <hi>Chriſtendom,</hi> who (for his Pride and Luſt, which he
+calls his Glory) hath already deſtroyed at leaſt <hi>Seven hun<g ref="char:EOLhyphen"/>dred
+thouſand Men,</hi> and Burnt and laid Deſolate whole Courtries) goes on
+Triumphant both by Sea and Land; having already 165 Ships of War, and about 40
+more upon Stocks; which certainly will be the beſt Navy in the World; He has
+lately beat the <hi>Dutch Fleet</hi> in the <hi>Weſt-Indies,</hi> and is like
+ſpeedily to be Maſter of <hi>Sicily;</hi> He has thus Early in the Year
+taken <hi>Valenci<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns</hi> and
+<hi>Cambray;</hi> and juſt now there is certain News come, he
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo Worſted the Prince of
+<hi>Orang's Army,</hi> that its thought all the <hi>Spanish Netherlands</hi>
+muſt ſpeedily fall into his hands without much Oppoſition. How dreadful
+an Aſpect this hath upon <hi>England,</hi> you and all men may judge.</p>
+            <p>I do not think it at all ſtrange of find ſome men but little
+concern'd for the Preſervation of the <hi>Proteſtant Religion,</hi> and the
+keeping out of <hi>Popery,</hi> and others as little for the Main<g ref="char:EOLhyphen"/>tenance of
+the Laws, Rights and Liberties of the Nation, in oppoſition to <hi>Arbitrary
+Povver;</hi> but I hope there are none ſo rechleſly ſtupid, as to be
+unconcern'd when they ſee them<g ref="char:EOLhyphen"/>ſelves like to loſe not only the
+<hi>Proteſtant Religion,</hi> and all the <hi>Rights</hi> and
+<hi>Liberties</hi> of the Nation, with all their own <hi>Eſtates</hi> and
+<hi>Poſſeſsion,</hi> but the <hi>Land</hi> and <hi>Soil</hi> of the
+Nation it ſelf: And this ſeems to be our preſent Caſe, for the
+wiſeſt men here do think matters are brought to this narrow Iſſue, That
+<pb n="26" facs="tcp:49015:15"/>either we muſt ſpeedily have a <hi>Nevv
+Parliament,</hi> or certainly become a <hi>French Conqueſt.</hi> For
+<hi>France</hi> is now become ſo prodigiouſly Powerfull, that the moſt
+United <hi>Wiſdom, Riches</hi> and <hi>Strength</hi> of this Nation will
+ſcarcely be able to preſerve it out of their ravenous Hands. And I Appeal
+to all Man<g ref="char:EOLhyphen"/>kind, whether we be like to find the like <hi>Wiſdom</hi> and
+<hi>Faith<g ref="char:EOLhyphen"/>fulneſs</hi> in a Gonvention of Men impoſing themſelves upon us
+as a Parliament, (the far greateſt part of which conſiſts either of
+<hi>French</hi> or <hi>Court</hi>-Pentioners Indigent or Out-law'd perſons,
+Children, Fools or ſuch as are Super-annuated) as in a Parliament freely
+choſen by the whole Nation to pre<g ref="char:EOLhyphen"/>ſerve it from ſo eminent a Danger? And
+whether ſuch a Par<g ref="char:EOLhyphen"/>liament would not have much more the Command of the Hearts
+and Affections, the Purſe and Perſons of the whole People, than its
+poſſible for this Convention to have during the continuance of which as a
+Parliament; And conſequent<g ref="char:EOLhyphen"/>ly the Kings Great Council, the <hi>French</hi>
+has arrived to this exceſſive Greatneſs, and poor <hi>England</hi> to
+this miſerable State. Therefore it ſeems to be the indiſpenſable Duty
+of every <hi>English-man</hi> to uſe his utmoſt Endeavour to move his
+Ma<g ref="char:EOLhyphen"/>jeſty not only to Diſcharge theſe Four Worthy Lords, but to anſwer
+their Great Requeſt, by Galling a <hi>Nevv Parlia<g ref="char:EOLhyphen"/>ment</hi> before it be too
+late to provide for the Safety of the <hi>King</hi> and <hi>Kingdom.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
